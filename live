@@ -243,7 +243,7 @@
 "ads":["mozai.4gtv.tv"],
 
 "lives":[
-{"name":"TV","type":0,"url":"https://kkgithub.com/dpdisk/file/raw/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
+{"name":"TV","type":0,"url":"https://kkgithub.com/dpdisk/m3u/raw/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
 {"name":"冰茶TV","type":0,"url":"https://fy.188766.xyz/?url=http://tv123.top:35455&mima=mianfeidehaimaiqian","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"}
 	]
 }
