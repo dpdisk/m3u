@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://pan.qingyuji.cn/f/NBRrc3/k.png;md5;74f4202a281d458b4b28dbbaf3959b5a",
+"spider":"https://pan.qingyuji.cn/f/2qDVhA/kkk.png;md5;81c5f8cb530bf9c00e60ef9f98d99244",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -105,6 +105,7 @@
 "timeout":10},
 {"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_KanqiuGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},
 "timeout":10},
+{"key":"世界听书","name":"🎸世界┃听书","type":3,"api":"csp_BookTingGuard","searchable":1,"quickSearch":0,"changeable":0,"timeout":10},
 {"key":"bilimd","name":"🅱哔哩┃影视","type":3,"api":"csp_BilimdGuard","searchable":1,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
 "timeout":10},
 {"key":"bili","name":"🅱哔哩┃合集","type":3,"api":"csp_BiliGuard","searchable":1,"quickSearch":0,"changeable":0,"filterable":1,"style":{"type":"rect","ratio":1.433},
