@@ -236,11 +236,7 @@
 	],
 "ads":["mozai.4gtv.tv"],
 "lives":[
-{"name":"TV","type":0,"url":"https://githubraw.com/dpdisk/m3u/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-{"name":"冰茶TV","type":0,"url":"https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimaiqian&json=true","playerType":2,"timeout":10,"ua":"bingcha/1.1"}
+{"name":"TV","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/dpdisk/m3u/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
+{"name":"冰茶TV","type":0,"url":"https://fy.188766.xyz/?url=http%3A%2F%2Ftv123.top%3A35455&mishitong=true&mima=mianfeidehaimaiqian&json=true","playerType":2,"timeout":10,"ua":"bingcha/1.1"}
 	]
-
 }
-
-
-
