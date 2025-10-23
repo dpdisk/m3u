@@ -1,5 +1,5 @@
-﻿{
-"spider":"https://pan.qingyuji.cn/f/aALGFw/kk.png;md5;eb079a7fcbec8e29c5a83c9a426641e7",
+{
+"spider":"https://pan.qingyuji.cn/f/OA59t3/oo.png;md5;adff82e751124a20a1c83d028128273b",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wall","logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
 "sites":[
 {"key":"豆瓣","name":"🤓公众号┃OK杰克","type":3,"api":"csp_DoubanGuard","searchable":0,"changeable":1},
@@ -234,9 +234,11 @@
 	"cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
 	"studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com"
 	],
-"ads":["mozai.4gtv.tv"],
+"ads":["static-mozai.4gtv.tv"],
 "lives":[
-{"name":"TV","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/dpdisk/m3u/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-{"name":"冰茶TV","type":0,"url":"https://fy.188766.xyz/?url=http%3A%2F%2Ftv123.top%3A35455&mishitong=true&mima=mianfeidehaimaiqian&json=true","playerType":2,"timeout":10,"ua":"bingcha/1.1"}
+{"name":"TV","type":0,"url":"https://githubraw.com/dpdisk/m3u/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
+{"name":"冰茶TV","type":0,"url":"https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true","playerType":2,"timeout":10,"ua":"bingcha/1.1"},
+{"name":"测试1","type":0,"url":"http://localhost:9978/proxy?do=live&url=https://githubraw.com/dpdisk/m3u/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
+{"name":"测试2","type":0,"url":"http://127.0.0.1:9978/action?do=refresh&type=live&url=https://githubraw.com/dpdisk/m3u/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"}
 	]
 }
