@@ -238,7 +238,6 @@
 "lives":[
 {"name":"TV","type":0,"url":"https://githubraw.com/dpdisk/m3u/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
 {"name":"冰茶TV","type":0,"url":"https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true","playerType":2,"timeout":10,"ua":"bingcha/1.1"},
-{"name":"测试1","type":0,"url":"http://localhost:9978/proxy?do=live&url=https://githubraw.com/dpdisk/m3u/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
-{"name":"测试2","type":0,"url":"http://127.0.0.1:9978/action?do=refresh&type=live&url=https://githubraw.com/dpdisk/m3u/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"}
+{"name":"测试","type":0,"url":"http://localhost:9978/proxy?do=live&url=https://githubraw.com/dpdisk/m3u/main/tv","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"}
 	]
 }
