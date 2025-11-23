@@ -7,6 +7,7 @@
 {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_ConfigGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
 {"key":"本地播放","name":"🐼本地┃播放","type":3,"api":"csp_LocalGuard","searchable":0,"changeable":0,"indexs":0,"style":{"type":"list"},
 "timeout":5},
+{"key":"我的夸克","name":"🗽我的┃夸克","type":3,"api":"csp_MyQuarkGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":0,"style":{"type":"list"},"timeout":30},
 {"key":"二小弹幕","name":"🦢二小┃4K弹幕","type":3,"api":"csp_ErXiaoGuard","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},
 "timeout":25},
 {"key":"双星","name":"🤩双星┃4K弹幕","type":3,"api":"csp_Star2Guard","searchable":1,"filterable":1,"changeable":0,"style":{"type":"list"},
