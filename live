@@ -70,6 +70,7 @@
 "timeout":10},
 {"key":"韩圈","name":"🦄韩圈┃弹幕","type":3,"api":"csp_HanXiaoQuanGuard","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":{"danmu":true},
 "timeout":10},
+{"key":"我的夸克","name":"🗽我的┃夸克","type":3,"api":"csp_MyQuarkGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":0,"style":{"type":"list"},
 "timeout":30},
 {"key":"我的UC","name":"😼我的┃UC","type":3,"api":"csp_MyUcGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":0,"style":{"type":"list"},
 "timeout":30},
@@ -239,3 +240,4 @@
 {"name":"冰茶TV","type":0,"url":"https://fy.188766.xyz/?ip=&mima=mianfeibuhuaqian&json=true","playerType":2,"timeout":10,"ua":"bingcha/1.1"}
 	]
 }
+{"key":"我的夸克","name":"🗽我的┃夸克","type":3,"api":"csp_MyQuarkGuard","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"indexs":0,"style":{"type":"list"},"timeout":30},
