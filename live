@@ -12,12 +12,30 @@
 已删除字段: "proxy"
 ✅ 已添加自定义字段
 最终内容长度: 29567
-✅ 解密成功！已保存到 live
-🔍 内容预览: {
+
+==================================================
+处理后的内容:
+==================================================
+{
   "spider": "https://10352.kstore.vip/202512100930.png;md5;91872c1a416d0e78d5784a8529da8a87",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
-  "logo": "https://storage.7x24cc.com/storage-serv...
-eable": 0,
+  "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
+  "sites": [
+    {
+      "key": "豆瓣",
+      "name": "🤓公众号┃OK杰克",
+      "type": 3,
+      "api": "csp_DoubanGuard",
+      "searchable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "配置中心",
+      "name": "👨‍🍳‍配置┃中心",
+      "type": 3,
+      "api": "csp_ConfigGuard",
+      "searchable": 0,
+      "changeable": 0,
       "indexs": 0,
       "style": {
         "type": "rect",
@@ -1452,3 +1470,9 @@ eable": 0,
 {"name":"冰茶TV","type":0,"url":"https://fy.188766.xyz/?ip=&mima=mianfeidehaimaiqian&json=true","playerType":2,"timeout":10,"ua":"bingcha/1.1"}
 	]
 }
+==================================================
+✅ 解密成功！
+🔍 内容预览: {
+  "spider": "https://10352.kstore.vip/202512100930.png;md5;91872c1a416d0e78d5784a8529da8a87",
+  "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
+  "logo": "https://storage.7x24cc.com/storage-serv...
