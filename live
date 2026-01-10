@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/01/09/7cf8e2c5b46fd4ae85daf1c0e8b2927c.jpg;md5;94ee00c5dad77ecc8b9bef4e79f497a4",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/01/10/0887b0b57018e52c74b9cd8227bcde23.jpg;md5;23670891ff8bfc856b1ad5a16142f16e",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
   "sites": [
@@ -728,6 +728,17 @@
       "name": "💖星芽┃短剧",
       "type": 3,
       "api": "csp_AppXYGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
+      "key": "甜圈短剧",
+      "name": "🌸甜圈┃短剧",
+      "type": 3,
+      "api": "csp_TianQuanGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
