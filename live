@@ -452,21 +452,6 @@
       "timeout": 10
     },
     {
-      "key": "鲸鱼弹幕版",
-      "name": "🐳鲸鱼┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "JingYu",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "小猪弹幕版",
       "name": "🐖小猪┃弹幕",
       "type": 3,
