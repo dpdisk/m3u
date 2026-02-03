@@ -527,21 +527,6 @@
       "timeout": 10
     },
     {
-      "key": "汤圆弹幕版",
-      "name": "🍚汤圆┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "TangYuan",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "木瓜弹幕版",
       "name": "🥑木瓜┃弹幕",
       "type": 3,
@@ -918,7 +903,7 @@
       "name": "🐕酷狗┃音乐",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
