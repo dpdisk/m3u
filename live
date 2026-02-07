@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🤓公众号┃OK杰克(打不开请长按首页或清空缓存)",
+      "name": "🤓公众号┃OK杰克 (打不开请长按首页或清空缓存)",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 0,
@@ -1554,9 +1554,9 @@
         "magnet"
       ],
       "regex": [
-        "最新",
-        "直播",
-        "更新"
+        "最 新",
+        "直 播",
+        "更 新"
       ]
     },
     {
@@ -1610,7 +1610,7 @@
         "www.maolvys.com"
       ],
       "script": [
-        "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
+        "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
       ]
     },
     {
