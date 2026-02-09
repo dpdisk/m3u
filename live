@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🤓公众号┃OK杰克 (打不开请长按首页或清空缓存)",
+      "name": "🤓公众号┃OK杰克 (关注不迷路)",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 0,
@@ -559,6 +559,21 @@
       "timeout": 10
     },
     {
+      "key": "独播弹幕版",
+      "name": "👠独播┃弹幕",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "filterable": 1,
+      "ext": {
+        "sp": "Duboku",
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
       "key": "厂长弹幕版",
       "name": "📔厂长┃弹幕",
       "type": 3,
@@ -834,20 +849,6 @@
         "sp": "Xb6v"
       },
       "timeout": 20
-    },
-    {
-      "key": "聚合直播",
-      "name": "📽️聚合┃直播",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "Living"
-      },
-      "timeout": 10
     },
     {
       "key": "快手直播",
