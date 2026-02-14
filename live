@@ -1115,6 +1115,19 @@
       "timeout": 25
     },
     {
+      "key": "影链",
+      "name": "🎞️影链┃搜索",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "sp": "YingLian"
+      },
+      "timeout": 25
+    },
+    {
       "key": "爱盘",
       "name": "❤️爱盘┃搜索",
       "type": 3,
