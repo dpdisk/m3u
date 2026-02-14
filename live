@@ -407,21 +407,6 @@
       "timeout": 10
     },
     {
-      "key": "小苹果弹幕版",
-      "name": "🍎苹果┃弹幕",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Xpg",
-        "danmu": true
-      },
-      "timeout": 10
-    },
-    {
       "key": "云云弹幕版",
       "name": "☁️云云┃弹幕",
       "type": 3,
