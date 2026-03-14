@@ -280,6 +280,7 @@
       "name": "🍊云集┃4K弹幕",
       "type": 3,
       "api": "csp_AweSomeGuard",
+      "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -288,6 +289,20 @@
         "danmu": true
       },
       "timeout": 25
+    },
+    {
+      "key": "4K指南",
+      "name": "⭐指南┃4K原盘",
+      "type": 3,
+      "api": "csp_AweSomeGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 0,
+      "ext": {
+        "sp": "Zn4k"
+      },
+      "timeout": 30
     },
     {
       "key": "盘他",
