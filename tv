@@ -506,18 +506,12 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=Fifa
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="咪视界",咪咕直播 𝟛𝟠
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://hk.gh-proxy.org/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/playback.xml,https://develop202.github.io/migu_video/playback.xml,https://raw.githubusercontents.com/develop202/migu_video/refs/heads/main/playback.xml" catchup="append" catchup-source="&playbackbegin=${(b)yyyyMMddHHmmss}&playbackend=${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-logo="" group-title="央视频道",更新日期: 2026-3-19 09:13:42
+#EXTINF:-1 tvg-logo="" group-title="央视频道",更新日期: 2026-3-19 18:35:14
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV3综艺
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV13新闻
-http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323312&major_anchor_level=common&sign=dfda07bbe4deae27fca9056fa74223e9&t_id=037-202603171135129F43485267BFE29CDDD5-aqeKOH
-#EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV13新闻
-http://pull-hls-f11.douyincdn.com/media/stream-695465280141001388.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323377&major_anchor_level=common&sign=772f12f93ba40960ef86c70179d8b7f5&t_id=037-20260317113617F541C88961455401EC09-KrODew
-#EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV13新闻
-http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323413&major_anchor_level=common&sign=bfb8ff74617fcdff19b7f069345bddbf&t_id=037-202603171136527F07B27D8B65BC930621-2vH0sa
 #EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV16奥林匹克
 http://69.30.246.194/live/cctv16.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视频道",CCTV16奥林匹克
@@ -672,8 +666,6 @@ http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="浙江地区",龙泉电视台
 http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="江苏地区",南京十八生活
-http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
 https://rmplive.hljtv.com/live/haerbin.m3u8
 #EXTINF:-1 tvg-logo="" group-title="黑龙江地区",哈尔滨新闻综合
@@ -1082,10 +1074,6 @@ https://play.kankanlive.com/live/1680577080200944.m3u8
 http://play.kankanlive.com/live/1680577080200944.flv
 #EXTINF:-1 tvg-logo="" group-title="超清频道",CCTV3超清
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-logo="" group-title="超清频道",CCTV13超清
-http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323312&major_anchor_level=common&sign=dfda07bbe4deae27fca9056fa74223e9&t_id=037-202603171135129F43485267BFE29CDDD5-aqeKOH
-#EXTINF:-1 tvg-logo="" group-title="超清频道",CCTV13超清
-http://pull-hls-f11.douyincdn.com/media/stream-695465280141001388.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323377&major_anchor_level=common&sign=772f12f93ba40960ef86c70179d8b7f5&t_id=037-20260317113617F541C88961455401EC09-KrODew
 #EXTINF:-1 tvg-logo="" group-title="超清频道",CCTV13超清
 http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323413&major_anchor_level=common&sign=bfb8ff74617fcdff19b7f069345bddbf&t_id=037-202603171136527F07B27D8B65BC930621-2vH0sa
 #EXTINF:-1 tvg-logo="" group-title="超清频道",CCTV16超清
