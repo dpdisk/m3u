@@ -295,7 +295,7 @@
       "name": "⭐指南┃4K原盘",
       "type": 3,
       "api": "csp_AweSomeGuard",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
       "filterable": 0,
@@ -341,6 +341,9 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
+      "style": {
+        "type": "list"
+      },
       "ext": {
         "sp": "LeiJing"
       },
@@ -1120,15 +1123,15 @@
       "timeout": 25
     },
     {
-      "key": "影链",
-      "name": "🎞️影链┃搜索",
+      "key": "聚盘",
+      "name": "🎞️聚盘┃搜索",
       "type": 3,
       "api": "csp_AweSomeGuard",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
       "ext": {
-        "sp": "YingLian"
+        "sp": "JuPan"
       },
       "timeout": 25
     },
