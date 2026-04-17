@@ -319,20 +319,6 @@
       "timeout": 25
     },
     {
-      "key": "海绵",
-      "name": "🧽海绵┃4K",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "HaiMian"
-      },
-      "timeout": 25
-    },
-    {
       "key": "雷鲸",
       "name": "🐳雷鲸┃4K",
       "type": 3,
@@ -729,20 +715,6 @@
       "filterable": 1,
       "ext": {
         "sp": "AppXY"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "碎片短剧",
-      "name": "🧸碎片┃短剧",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "filterable": 1,
-      "ext": {
-        "sp": "SuiPian"
       },
       "timeout": 10
     },
